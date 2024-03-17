@@ -1,5 +1,5 @@
-Meta.DisplayName=Rimworld Together - RimWorld Server
-Meta.Description=Rimworld Together - a free multiplayer mod for RimWorld
+Meta.DisplayName=Rimworld Together - RimWorld Server (Jay Edit)
+Meta.Description=Rimworld Together - a free multiplayer mod for RimWorld (Jay Edit)
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Native
 Meta.Arch=All
@@ -25,7 +25,7 @@ Meta.ConfigVersion=0.0.0.0
 Meta.ReleaseNotes=
 Meta.BreakingReleaseNotes=
 Meta.AppConfigId=c63ac544-9a15-4063-9fd1-3af1ad4ca3fd
-App.DisplayName=Rimworld Together - RimWorld Server
+App.DisplayName=Rimworld Together - RimWorld Server  (Jay Edit)
 App.RootDir=./rimworld-together/
 App.BaseDirectory=./rimworld-together/
 App.SteamWorkshopDownloadLocation=
